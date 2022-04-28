@@ -3,7 +3,7 @@ Blog built using the Ruby Getting Started Guide: https://guides.rubyonrails.org/
 
 
 ## Quick Reference
-* Run the server, within the project folder: ruby bin/rails server
+* Run the server, within the project folder: > ruby bin/rails server
 * Generate a Controller: ruby bin/rails generate controller Articles index --skip-routes
 Cancel changes
 
